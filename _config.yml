@@ -4,8 +4,8 @@
 title: Gedanken
 description: Hey there!
 google_analytics:
-baseurl:
-url:
+baseurl: ""
+url: "https://natashaw.github.io/gedanken/"
 
 # Build settings
 markdown: kramdown
