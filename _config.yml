@@ -10,7 +10,7 @@ url: "https://natashaw.github.io/gedanken/"
 
 # Build settings
 markdown: kramdown
-permalink: /:categories/:title
+permalink: /:year/:month/:day/:title
 excerpt_separator: <!--more-->
 
 # Author Profile
