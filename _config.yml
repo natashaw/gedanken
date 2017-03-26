@@ -4,6 +4,7 @@
 title: Gedanken
 description: Hey there!
 google_analytics:
+theme:
 baseurl: ""
 url: "https://natashaw.github.io/gedanken/"
 
