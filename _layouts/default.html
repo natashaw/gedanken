@@ -1,18 +1,40 @@
 <!doctype html>
 <html>
-    
-  {% include head.html %}
-    
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{{ site.title | default: site.github.repository_name }}</title>
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
   <body>
     <div class="wrapper">
-      {% include header.html %}
+      <header>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>        
+      </header>
         
       <section>
                 
       {{ content }}
 
       </section>
-      {% include footer.html %}
+        <footer>
+        <h4>Ways to contact me:</h4>
+        <p>
+        {{ site.email }}
+        <br>
+        {% for network in site.social %}
+        <a href="{{ network.url }}" class="btn btn-social-icon btn-linkedin"><span class="fa fa-{{ network.title }}"></span></a>
+        {% endfor %}
+        </p>
+        <p><small>Blog hosted on GitHub Pages <br> 
+        Theme modified from <a href="https://github.com/pages-themes/minimal">pages-themes</a></small></p>
+        </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
