@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: post
+title: First Blog!
+date: 2017-03-25
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

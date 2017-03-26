@@ -1,0 +1,13 @@
+---
+layout: default
+___
+
+{% for post in site.categories['blog'] %}
+    <!-- Blog Post --> 
+    <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
+    <p><small>{{ post.date | date: "%b %-d, %Y" }}</small></p>
+    {{ post.excerpt }}
+    <p><a href="{{ post.url | prepend: site.baseurl }}">[Read More]</a></p>
+
+    <div class="spacing"></div>
+{% endfor %}

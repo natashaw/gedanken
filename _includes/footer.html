@@ -1,0 +1,12 @@
+<footer>
+    <h4>Ways to contact me:</h4>
+    <p>
+    {{ site.email }}
+    <br>
+    {% for network in site.social %}
+    <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
+    {% endfor %}
+    </p>
+    <p><small>Blog hosted on GitHub Pages <br> 
+    Theme modified from <a href="https://github.com/pages-themes/minimal">pages-themes</a></small></p>
+</footer>

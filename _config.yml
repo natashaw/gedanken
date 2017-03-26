@@ -1,4 +1,19 @@
+### GENERAL SETTINGS ###
+
+# Site settings
 title: Gedanken
 description: Hey there!
 google_analytics:
-theme: 
+baseurl:
+url:
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+excerpt_separator: <!--more-->
+
+# Author Profile
+social:
+  - title: linkedin
+    url: http://www.linkedin.com/in/natashawijoyo
+email: natashawijoyo@gmail.com
