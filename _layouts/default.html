@@ -3,9 +3,15 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.title | default: site.github.repository_name }}</title>
-
+    <meta property="og:image" content="http://lipis.github.io/bootstrap-social/assets/img/bootstrap-social.png" />
+	
+	<title>{{ site.title | default: site.github.repository_name }}</title>
+	
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	<link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/font-awesome.css" rel="stylesheet">
+	<link href="bootstrap-social.css" rel="stylesheet">
+	
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -30,9 +36,7 @@
         <p>
         <small>{{ site.email }}</small>
         <br>
-        <a class="btn btn-social-icon btn-linkedin">
-			<span class="fa fa-linkedin"></span>
-		</a>
+        <a class="btn btn-social-icon btn-linkedin" href="https://www.linkedin.com/in/natashawijoyo/");"><span class="fa fa-linkedin"></span></a>
               
         </p>
         <p><small>Blog hosted on GitHub Pages <br> 
