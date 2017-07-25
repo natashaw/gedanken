@@ -6,7 +6,7 @@ description: I am smiling.
 google_analytics:
 theme:
 baseurl: ""
-url: "https://natashaw.github.io/gedanken/"
+url: "https://natashaw.github.io/gedanken"
 
 # Build settings
 markdown: kramdown
