@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Natasha reads: "Every Good Endeavor" by Tim Keller
+title: Natasha reads Every Good Endeavor by Tim Keller
 date: 2017-07-24
 ---
 
