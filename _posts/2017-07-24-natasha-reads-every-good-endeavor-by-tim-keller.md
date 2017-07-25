@@ -2,11 +2,9 @@
 layout: post
 title: Natasha reads Every Good Endeavor by Tim Keller
 date: 2017-07-24
+img: http://i.imgur.com/L6y5GJ4.jpg
 ---
 
-<img src="http://i.imgur.com/L6y5GJ4.jpg" height="400" align="center">
-
-_front cover of the book_
 
 As I was starting my unemployed-no income-job hunting-still figuring out what’s next life, somebody from church recommended me “Every Good Endeavor” by Tim Keller, the lead pastor of the Redeemer Presbyterian Church in New York City. I’m not being dramatic; but I don’t think I would have the positive outlook I have now with my career, if I had not read this book. Through “Every Good Endeavor”, Tim Keller has explained how can Christians see beyond the dualistic view of faith and work in a way that is not only easy to understand, but also deeply relatable.
 
