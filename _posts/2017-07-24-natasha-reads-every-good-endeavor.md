@@ -2,7 +2,6 @@
 layout: post
 title: Natasha reads! Every Good Endeavor by Tim Keller
 date: 2017-07-24
-img: http://i.imgur.com/L6y5GJ4.jpg
 ---
 
 
