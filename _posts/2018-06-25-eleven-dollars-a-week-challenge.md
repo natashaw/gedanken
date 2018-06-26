@@ -23,7 +23,7 @@ The first things I did on day one was to cook the shredded chicken. I had to avo
 Listed below are the five meals I made from spending $11 on groceries. I actually made the last two meals the next week, since the first three meals were sufficient for the entire week's meal. I also happened to be invited to events where I got to eat for free, which helped me save three meals.
 
 
-<img src="https://imgur.com/QoXgLEi">
+<img src="https://i.imgur.com/QoXgLEi.jpg">
 
 ### Meal #1
 **Japanese Chicken Curry With Sweet Potatoes**
@@ -31,19 +31,19 @@ Listed below are the five meals I made from spending $11 on groceries. I actuall
 As a disclaimer, I didn't come up with the recipes for these meals. For this chicken curry, I followed a recipe from [this website](https://www.justonecookbook.com/simple-chicken-curry/). For the stock, I have made a homemade chicken stock from some leftover chicken bones. Making chicken stock at home, although time-consuming, not only helps with saving extra bucks, but also gives you better tasting stock! I also made the curry roux from scratch, by following [this tutorial](https://www.justonecookbook.com/how-to-make-curry-roux/).
 
 
-<img src="https://imgur.com/a/wDpjEDX">
+<img src="https://i.imgur.com/v7SCtme.jpg">
 
 ### Meal #2
 **Breaded Chicken with Honey Mayo Sauce**
 In the beginning, I tried to follow the recipe for [chicken teriyaki](https://sortedfood.com/recipe/teriyakichicken), but I was rather in the mood for a mayo dip instead of salty teriyaki sauce. So, I made my own mayo using an egg yolk, a pinch of dijon mustard, and vegetable oil.
 
-<img src="https://imgur.com/a/0I6z5oi">
+<img src="https://i.imgur.com/MKmnTky.jpg">
 
 I prefer my mayo to be thick and fluffy. My mayo actually came out very light and more liquid in the first few whisks. I tried mixing the vegetable oil with a bit of olive oil, and *voilà*!
-<img src="https://imgur.com/a/DcEHpwV">
+<img src="https://i.imgur.com/rnxSocM.gif">
 
 
-<img src="https://imgur.com/a/KzdNUNV">
+<img src="https://i.imgur.com/RQGh1jm.jpg">
 
 ### Meal #3
 **Sup Merah (Indo-Dutch Red Soup)**
@@ -55,7 +55,7 @@ I prefer my mayo to be thick and fluffy. My mayo actually came out very light an
 I forgot to take picture of this meal. Perhaps the dish was too simple, that it didn't feel like I was actually cooking. The ingredients comprise of one chorizo sausage (I used one of the size you find in Costco), tomato paste, sweet corn kernels, pasta, and chopped Kielbasa (or any other type of smoked sausage). I chopped the Kielbasa piece I happened to have into tiny cubes, stir-fried it with oil and the chorizo, before throwing the cooked pasta and corn kernels into the same pan.
 
 
-<img src="https://imgur.com/a/M2sWQMw">
+<img src="https://i.imgur.com/jZ6qem6.jpg">
 
 ### Meal #5
 **Nasi Goreng Jawa**
