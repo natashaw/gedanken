@@ -1,6 +1,8 @@
 
 I embarked a challenge to strictly budget my expenses on food a few weeks ago. After watching Josh of Brothers Green doing a $21 a week challenge in New York City, I decided to do the same. However, in my case, I was limiting myself to $11 a week, cutting off $10 from the original challenge. I had saved up frozen and canned ingredients; hence I really only needed to buy the ingredients I lack, such as garlic, vegetable oil, or fruits. In other words, I didn't cook strictly from the groceries I picked up like Josh; to make it clear from the beginning.
 <!--more-->
+
+
 Now, on to the items on my grocery list, I bought more variety with less amount. As an example, instead of buying a bag of mandarins, I bought one count of different types of fruits. Here is the list of items I purchased on day one:
 
 * 1 pink lady apple
@@ -23,6 +25,10 @@ The first things I did on day one was to cook the shredded chicken. I had to avo
 Listed below are the five meals I made from spending $11 on groceries. I actually made the last two meals the next week, since the first three meals were sufficient for the entire week's meal. I also happened to be invited to events where I got to eat for free, which helped me save three meals.
 
 
+
+
+
+
 <img src="https://i.imgur.com/QoXgLEi.jpg">
 
 ### Meal #1
@@ -31,34 +37,54 @@ Listed below are the five meals I made from spending $11 on groceries. I actuall
 As a disclaimer, I didn't come up with the recipes for these meals. For this chicken curry, I followed a recipe from [this website](https://www.justonecookbook.com/simple-chicken-curry/). For the stock, I have made a homemade chicken stock from some leftover chicken bones. Making chicken stock at home, although time-consuming, not only helps with saving extra bucks, but also gives you better tasting stock! I also made the curry roux from scratch, by following [this tutorial](https://www.justonecookbook.com/how-to-make-curry-roux/).
 
 
+
+
+
+
 <img src="https://i.imgur.com/v7SCtme.jpg">
 
 ### Meal #2
 **Breaded Chicken with Honey Mayo Sauce**
+
 In the beginning, I tried to follow the recipe for [chicken teriyaki](https://sortedfood.com/recipe/teriyakichicken), but I was rather in the mood for a mayo dip instead of salty teriyaki sauce. So, I made my own mayo using an egg yolk, a pinch of dijon mustard, and vegetable oil.
 
 <img src="https://i.imgur.com/MKmnTky.jpg">
 
 I prefer my mayo to be thick and fluffy. My mayo actually came out very light and more liquid in the first few whisks. I tried mixing the vegetable oil with a bit of olive oil, and *voilà*!
+
+
 <img src="https://i.imgur.com/rnxSocM.gif">
+
+
+
+
 
 
 <img src="https://i.imgur.com/RQGh1jm.jpg">
 
 ### Meal #3
 **Sup Merah (Indo-Dutch Red Soup)**
+
 *Sup Merah* (*soup myrrh ah*) is a typical homecooked dish back where I'm from. They say the dish is adapted from the Dutch stew called *Bruine Bonensoep*, which makes some sense considering Dutch's level of control over my hometown prior to World War II. I happened to have Kielbasa, which I sliced into the size of matchsticks. It doesn't take very long to cook this soup, as long as the ingredients are prepared beforehand. I personally have added this dish as one of my go-to weekday meals. I have tried to compile a brief recipe of my version of *sup merah*, which I will post soon. 
+
+
 
 
 ### Meal #4
 **Chorizo Corn Pasta**
+
 I forgot to take picture of this meal. Perhaps the dish was too simple, that it didn't feel like I was actually cooking. The ingredients comprise of one chorizo sausage (I used one of the size you find in Costco), tomato paste, sweet corn kernels, pasta, and chopped Kielbasa (or any other type of smoked sausage). I chopped the Kielbasa piece I happened to have into tiny cubes, stir-fried it with oil and the chorizo, before throwing the cooked pasta and corn kernels into the same pan.
+
+
+
+
 
 
 <img src="https://i.imgur.com/jZ6qem6.jpg">
 
 ### Meal #5
 **Nasi Goreng Jawa**
+
 This dish is basically a version of fried rice specifically from Java island of Indonesia (Jawa ~ Java). Like almost every other Asian fried rice, this dish contains some sort of green vegetable, scrambled eggs, onion, garlic, and soy sauce. The difference with this version, however, is the added palm sugar, which usually is already included in the kind of soy sauce used in that island. If you go to any grocery store in Java island, you'd more likely find more sweetened soy sauce than the regular soy sauce you find in Asian stores in the US. However, since I don't have that type of soy sauce, I added brown sugar to my soy sauce, which works quite close to when using palm sugar. I also added *sambal oelek* of a brand from my hometown, called [Sambal Bu Rudy](http://indonesiaeats.com/sambal-bawang-sambal-setan-shallot-garlic-devil-sambal/) for additional Javanese taste.
 
 
